@@ -1,10 +1,10 @@
-# fly.toml app configuration file generated for tgbot-noble-tide-974 on 2026-05-16T23:18:36+02:00
+# fly.toml app configuration file generated for tgbot-red-stream-9079 on 2026-05-17T00:54:18+02:00
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'tgbot-noble-tide-974'
-primary_region = 'cdg'
+app = 'tgbot-red-stream-9079'
+primary_region = 'ams'
 
 [build]
 
